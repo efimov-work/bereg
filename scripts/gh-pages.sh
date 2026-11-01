@@ -12,6 +12,7 @@ NEXT_PUBLIC_BASE_PATH="$BASE" NEXT_PUBLIC_SITE_URL="$ORIGIN" npm run export
 TMP="$(mktemp -d)"
 trap 'rm -rf "$TMP"' EXIT
 cp -a out/. "$TMP/"
+touch "$TMP/.nojekyll"
 git -C "$TMP" init -q -b gh-pages
 git -C "$TMP" add -A
 git -C "$TMP" -c user.name="$(git config user.name)" -c user.email="$(git config user.email)" commit -q -m "Статическая сборка Bereg для GitHub Pages"
