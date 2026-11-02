@@ -1,0 +1,7 @@
+:HL["/bereg/_next/static/media/4b844a4d6bd7ba81-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/bereg/_next/static/media/5d7fa19dd58d4d1a-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/bereg/_next/static/css/f0febcf0c7b6d426.css","style"]
+:HL["/bereg/_next/static/css/2ab588d5290fdbfa.css","style"]
+:HL["/bereg/_next/static/css/1e07c6b7537a391a.css","style"]
+:HL["/bereg/assets/brand/bereg-logo.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"Tc-HebJQOYPl-bRDNgR9O"}

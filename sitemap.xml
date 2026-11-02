@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://efimov-work.github.io/bereg/</loc>
+<image:image>
+<image:loc>https://efimov-work.github.io/bereg/assets/images/00_coastal_sequence-poster.jpg</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://efimov-work.github.io/bereg/assets/images/02_architecture_detail-poster.jpg</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://efimov-work.github.io/bereg/assets/images/19_interior_view.jpg</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://efimov-work.github.io/bereg/assets/images/18_terrace.jpg</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://efimov-work.github.io/bereg/assets/images/09_blue_hour.jpg</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://efimov-work.github.io/bereg/assets/images/16_lounge.jpg</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://efimov-work.github.io/bereg/assets/images/14_fitness.jpg</image:loc>
+</image:image>
+<lastmod>2026-11-02T07:46:33.655Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+</urlset>
