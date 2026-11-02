@@ -1,9 +1,9 @@
 :root {
-    --paper: #f4f1e9;
+    --paper: #ffffff;
     --ink: #273d38;
     --muted: #73766d;
-    --line: #d9dace;
-    --sand: #e7e4d8;
+    --line: #e2e6e2;
+    --sand: #edf1ed;
     --serif: Georgia, "Times New Roman", serif;
 }
 * {
@@ -209,7 +209,7 @@ button {
     display: inline-block;
     width: 5px;
     height: 5px;
-    background: #e9e7d5;
+    background: #e6e9e8;
     border-radius: 50%;
     margin-right: 10px;
     vertical-align: 2px;
@@ -543,7 +543,7 @@ button {
     font-size: 11px;
     line-height: 1.9;
     max-width: 340px;
-    color: #efefe8;
+    color: #eef1f0;
 }
 .round-button:hover {
     background: #ffffff25;
@@ -863,7 +863,7 @@ button {
 .footer {
     padding: 50px 7% 35px;
     background: var(--ink);
-    color: #e6e8dc;
+    color: #e6e9e8;
 }
 .footer-top {
     display: flex;
@@ -1651,7 +1651,7 @@ dialog[open],
     color: #fff;
 }
 .location-content > p {
-    color: #eef1e8;
+    color: #eff2f1;
 }
 @media (min-width: 761px) and (max-width: 1100px) {
     .hero h1 {
@@ -1867,7 +1867,7 @@ dialog[open],
     position: relative;
     width: 100%;
     aspect-ratio: 1280/712;
-    background: #d7ddd0;
+    background: #dadddc;
     overflow: hidden;
 }
 .hero .hero-film .hero-poster,
@@ -2105,7 +2105,7 @@ dialog[open],
     filter: brightness(0) invert(1);
 }
 .footer .brand-sub {
-    color: #d0d8c9;
+    color: #d4d7d6;
 }
 @media (max-width: 760px) {
     .header .brand-logo {
@@ -2117,11 +2117,11 @@ dialog[open],
 }
 
 :root {
-    --paper: #f5f1e9;
+    --paper: #ffffff;
     --ink: #173f43;
     --muted: #657477;
-    --line: #d6ded5;
-    --sand: #e5e8db;
+    --line: #e2e8e3;
+    --sand: #edf1ed;
     --serif: var(--font-prata), Georgia, serif;
     --deep: #102f34;
     --clay: #af6248;
@@ -2223,7 +2223,7 @@ p {
     margin: 18px auto 0;
     padding: 0 32px;
     max-width: calc(100% - 8%);
-    background: #fcfaf6;
+    background: #ffffff;
     border: 1px solid #fff;
     border-radius: 18px;
     box-shadow: 0 8px 25px #173f4306;
@@ -2358,7 +2358,7 @@ p {
 }
 .hero-film-caption {
     margin: 0 0 16px;
-    color: #f6f1e8;
+    color: #f5f8f6;
     gap: 16px;
 }
 .hero-film-caption > span:first-child {
@@ -2395,7 +2395,7 @@ p {
     padding: 14px 0 8px;
 }
 .hero-film-footer a {
-    color: #f0e7d7;
+    color: #eef3f0;
 }
 .project-seal {
     position: absolute;
@@ -2405,8 +2405,8 @@ p {
     align-items: center;
     gap: 14px;
     padding: 15px 19px;
-    background: #fffcf7;
-    border: 1px solid #e1e3d4;
+    background: #ffffff;
+    border: 1px solid #e1e4e3;
     box-shadow: 0 14px 28px #102f3414;
     border-radius: 12px;
     min-width: 285px;
@@ -2434,8 +2434,8 @@ p {
     grid-template-columns: repeat(3, 1fr);
     margin-top: 18px;
     padding: 25px 27px;
-    background: #ebece2;
-    border: 1px solid #dee2d4;
+    background: #ebeeed;
+    border: 1px solid #dfe2e1;
     border-radius: 14px;
     gap: 24px;
 }
@@ -2467,8 +2467,8 @@ p {
 .intro {
     padding-top: 70px;
     padding-bottom: 85px;
-    background: #fffdf8;
-    border-top: 1px solid #e7e8de;
+    background: #ffffff;
+    border-top: 1px solid #e7eae9;
 }
 .intro-main {
     grid-template-columns: 1.2fr 1fr;
@@ -2502,8 +2502,8 @@ p {
 }
 .facts > div {
     position: relative;
-    background: #f0f2e9;
-    border: 1px solid #dfe5d8;
+    background: #f0f4f1;
+    border: 1px solid #e2e5e4;
     border-radius: 16px;
     padding: 25px 22px;
     overflow: hidden;
@@ -2540,7 +2540,7 @@ p {
     align-items: center;
     position: relative;
     overflow: hidden;
-    color: #f5f0e6;
+    color: #f5f8f6;
 }
 .architecture:before {
     content: "";
@@ -2603,7 +2603,7 @@ p {
 .architecture-detail h3 {
     font-size: 13px;
     font-weight: 500;
-    color: #f4f0e5;
+    color: #f5f8f6;
 }
 .architecture-detail p {
     font-size: 11px;
@@ -2643,7 +2643,7 @@ p {
     align-items: center;
     margin: 35px 0 20px;
     padding: 7px;
-    background: #e8ebe1;
+    background: #e9eceb;
     border: 1px solid #d8e1d3;
     border-radius: 14px;
 }
@@ -2673,7 +2673,7 @@ p {
 }
 .life-panel {
     height: 560px;
-    border: 8px solid #fffdf7;
+    border: 8px solid #ffffff;
     border-radius: 24px;
     box-shadow: var(--shadow);
     background: #cad9ce;
@@ -2694,7 +2694,7 @@ p {
     padding: 24px 27px;
     background: #102f34ed;
     backdrop-filter: blur(12px);
-    border: 1px solid #d1dcc936;
+    border: 1px solid #d7dad936;
     border-radius: 14px;
     text-shadow: none;
 }
@@ -2706,7 +2706,7 @@ p {
     font: 27px/1.45 var(--serif);
     letter-spacing: -0.6px;
     margin: 11px 0 12px;
-    color: #fff9ee;
+    color: #f5f8f6;
 }
 .life-panel p {
     font-size: 11px;
@@ -2732,9 +2732,9 @@ p {
     margin: 0 auto;
     height: auto;
     min-height: 0;
-    border: 1px solid #d7decd;
+    border: 1px solid #dadddc;
     border-radius: 24px;
-    background: #e2e8da;
+    background: #e5e8e7;
     overflow: hidden;
     color: var(--ink);
     gap: 0;
@@ -2830,8 +2830,8 @@ p {
     flex: 0 0 64%;
     border-radius: 18px;
     padding: 10px;
-    background: #fffdf8;
-    border: 1px solid #e2e4d8;
+    background: #ffffff;
+    border: 1px solid #e2e5e4;
     box-shadow: 0 7px 20px #193e4308;
 }
 .gallery-item img {
@@ -2860,11 +2860,11 @@ p {
     width: 45px;
     height: 45px;
     border: 1px solid #c7d2c0;
-    background: #fffcf6;
+    background: #ffffff;
     font-size: 20px;
 }
 .arrow-button:hover {
-    background: #e6ebde;
+    background: #e8ebea;
 }
 .purchase {
     background: #dfe9e5;
@@ -2897,7 +2897,7 @@ p {
     padding: 29px 26px 23px;
     border: 1px solid #d3ddd2;
     border-radius: 18px;
-    background: #fffcf6;
+    background: #ffffff;
     box-shadow: 0 10px 25px #173f4307;
 }
 .purchase-no {
@@ -2963,11 +2963,11 @@ p {
     gap: 0;
     max-width: 1330px;
     margin: 85px auto;
-    border: 1px solid #dce1d3;
+    border: 1px solid #dee1e0;
     border-radius: 24px;
     overflow: hidden;
     box-shadow: var(--shadow);
-    background: #fffcf6;
+    background: #ffffff;
 }
 .contact-image {
     min-height: 760px;
@@ -2989,7 +2989,7 @@ p {
     left: 30px;
     right: 30px;
     padding: 15px 18px;
-    border: 1px solid #dfe8d138;
+    border: 1px solid #e3e6e538;
     border-radius: 10px;
     background: #143a3e80;
     backdrop-filter: blur(10px);
@@ -3025,9 +3025,9 @@ p {
 .lead-form input:not([type="checkbox"]) {
     padding: 13px 15px;
     margin-top: 5px;
-    border: 1px solid #d9e0d2;
+    border: 1px solid #dcdfde;
     border-radius: 8px;
-    background: #f6f7ef;
+    background: #f6f9f8;
     color: var(--ink);
     font-size: 13px;
     width: 100%;
@@ -3040,7 +3040,7 @@ p {
     padding: 13px 15px;
     border-color: #809a88;
     box-shadow: 0 0 0 3px #819a8914;
-    background: #fffdf7;
+    background: #ffffff;
 }
 .lead-form input::placeholder {
     color: #859280;
@@ -3076,7 +3076,7 @@ p {
     font-size: 11px;
     line-height: 1.9;
     color: var(--ink);
-    background: #e9efe2;
+    background: #ecefee;
     border-radius: 8px;
     padding: 12px 15px;
 }
@@ -3085,7 +3085,7 @@ p {
 }
 .faq {
     border: 0;
-    background: #eceee4;
+    background: #ecefee;
     padding-top: 65px;
     padding-bottom: 70px;
 }
@@ -3129,7 +3129,7 @@ p {
 .footer {
     padding: 45px max(6%, calc((100vw - 1330px) / 2)) 30px;
     background: var(--deep);
-    color: #e3e9dd;
+    color: #e6e9e8;
 }
 .footer .brand-logo {
     width: 200px;
@@ -3169,8 +3169,8 @@ p {
     margin-top: 22px;
 }
 dialog {
-    background: #fffcf5;
-    border: 1px solid #d8e0d0;
+    background: #ffffff;
+    border: 1px solid #dcdfde;
     border-radius: 20px;
     padding: 48px;
     box-shadow: 0 30px 100px #102f3450;
@@ -3398,7 +3398,7 @@ dialog::backdrop {
     }
     .header.menu-open {
         position: relative;
-        background: #fcfaf6;
+        background: #ffffff;
     }
     .mobile-menu {
         position: fixed;
@@ -4259,8 +4259,8 @@ dialog::backdrop {
     width: 175px;
     margin: 0;
     padding: 7px;
-    background: #fbf8ef;
-    border: 1px solid #dfe5d4;
+    background: #f7f9f8;
+    border: 1px solid #e1e4e3;
     border-radius: 12px;
     box-shadow: 0 14px 35px #051e2c45;
     z-index: 2;
@@ -4283,7 +4283,7 @@ dialog::backdrop {
 .location-collage {
     position: relative;
     min-width: 0;
-    background: #d3ddcd;
+    background: #d8dbda;
     padding: 25px;
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -4294,9 +4294,9 @@ dialog::backdrop {
 .location-collage figure {
     margin: 0;
     position: relative;
-    background: #f8f8ef;
+    background: #f7f9f8;
     padding: 7px;
-    border: 1px solid #fefefb;
+    border: 1px solid #ffffff;
     border-radius: 13px;
     box-shadow: 0 10px 25px #173f4315;
     overflow: hidden;
@@ -4348,15 +4348,15 @@ dialog::backdrop {
     text-align: left;
     min-width: 0;
     padding: 7px;
-    background: #eeefe4;
-    border: 1px solid #dde3d3;
+    background: #edf0ef;
+    border: 1px solid #dfe2e1;
     border-radius: 10px;
     transition:
         background 0.2s,
         border-color 0.2s;
 }
 .gallery-index button[aria-pressed="true"] {
-    background: #fffcf6;
+    background: #ffffff;
     border-color: #7c9a87;
     box-shadow: 0 4px 14px #153d4309;
 }
@@ -4383,8 +4383,8 @@ dialog::backdrop {
     grid-template-columns: 1fr 1fr;
     max-width: 1330px;
     margin: 75px auto;
-    background: #fffcf6;
-    border: 1px solid #dce1d3;
+    background: #ffffff;
+    border: 1px solid #dee1e0;
     overflow: hidden;
 }
 .partner-contacts .contact-copy {
@@ -4410,7 +4410,7 @@ dialog::backdrop {
     display: none;
 }
 .contact-direct > div {
-    border-top: 1px solid #dce2d2;
+    border-top: 1px solid #dee1e0;
     padding-top: 15px;
 }
 .contact-direct dt {
@@ -4439,10 +4439,10 @@ dialog::backdrop {
     align-items: center;
     gap: 15px;
     text-align: left;
-    border: 1px solid #dae1d0;
+    border: 1px solid #dde0df;
     border-radius: 12px;
     padding: 16px 18px;
-    background: #f0f3e9;
+    background: #f1f4f3;
     width: 100%;
     transition:
         border-color 0.2s,
@@ -4451,7 +4451,7 @@ dialog::backdrop {
 .contact-channels > button:hover,
 .contact-channels > a:hover {
     border-color: #94aa8e;
-    background: #e8efdf;
+    background: #ebeeed;
 }
 .contact-channel-icon {
     display: flex;
@@ -4487,7 +4487,7 @@ dialog::backdrop {
 .contact-topics {
     padding-top: 22px;
     margin-top: 25px;
-    border-top: 1px solid #d9e2d1;
+    border-top: 1px solid #dde0df;
     max-width: 420px;
 }
 .contact-topics > span {
@@ -4503,7 +4503,7 @@ dialog::backdrop {
 .contact-form-card {
     padding: 47px 46px;
     background: var(--deep);
-    color: #f1f2e6;
+    color: #f0f3f2;
     min-width: 0;
 }
 .contact-form-card > .eyebrow {
@@ -4514,7 +4514,7 @@ dialog::backdrop {
     font: 32px/1.4 var(--serif);
     letter-spacing: -1px;
     margin: 22px 0 15px;
-    color: #fff7e7;
+    color: #f5f8f6;
 }
 .contact-form-card > p {
     font-size: 12px;
@@ -4532,7 +4532,7 @@ dialog::backdrop {
 .contact-form-card .lead-form input:not([type="checkbox"]) {
     background: #214248;
     border-color: #41615e;
-    color: #f8f3e7;
+    color: #f7f9f8;
 }
 .contact-form-card .lead-form input:not([type="checkbox"]):focus {
     background: #24494d;
@@ -4553,7 +4553,7 @@ dialog::backdrop {
 }
 .contact-form-card .form-status {
     background: #294f4e;
-    color: #e7eddb;
+    color: #e9eceb;
 }
 .footer-top {
     padding-bottom: 0;
@@ -4985,7 +4985,7 @@ dialog::backdrop {
 }
 .gallery {
     background: var(--deep);
-    color: #f4f1e6;
+    color: #f1f4f3;
     padding: 80px 0 78px;
     border-top: 1px solid #284d4d;
     border-bottom: 1px solid #284d4d;
@@ -5004,7 +5004,7 @@ dialog::backdrop {
 }
 .gallery .section-label b {
     border-color: #658571;
-    color: #d5e2cc;
+    color: #dcdfde;
 }
 .gallery .section-heading {
     margin-top: 33px;
@@ -5019,7 +5019,7 @@ dialog::backdrop {
 .gallery .arrow-button {
     background: none;
     border-color: #577765;
-    color: #e1e9d5;
+    color: #e4e7e6;
 }
 .gallery .arrow-button:hover {
     background: #294f4b;
@@ -5070,7 +5070,7 @@ dialog::backdrop {
     box-shadow: none;
 }
 .gallery-index button > span {
-    color: #d5e1c9;
+    color: #dbdedd;
 }
 .gallery-index small {
     color: #94b18d;
@@ -5326,7 +5326,7 @@ dialog::backdrop {
 }
 .location-collage .location-coast-photo {
     transform: none;
-    border: 4px solid #d3ddcd;
+    border: 4px solid #d8dbda;
 }
 .purchase-grid article {
     box-shadow: none;
@@ -5396,7 +5396,7 @@ dialog::backdrop {
 }
 ::selection {
     background: var(--clay);
-    color: #fdf9f2;
+    color: #f7f9f8;
 }
 html {
     scroll-padding-top: 118px;
@@ -5424,7 +5424,7 @@ body:after {
 }
 .header.scrolled {
     background: rgba(252, 250, 246, 0.93);
-    border-color: #e9e4d6;
+    border-color: #e4e7e6;
     box-shadow: 0 16px 42px #173f431f;
     backdrop-filter: blur(8px);
 }
@@ -5474,7 +5474,7 @@ body:after {
     overflow: hidden;
     border-top: 1px solid var(--line);
     border-bottom: 1px solid var(--line);
-    background: #efe9db;
+    background: #e9eceb;
     padding: 19px 0;
 }
 .marquee-track {
